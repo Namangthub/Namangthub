@@ -3,11 +3,5 @@
 - 🌱 I’m currently learning full stack web development amd opting for the software engineer role. I am also familier with C/C++ and Python.
 - 💞️ I’m looking to collaborate on web development and software development projects.
 - 📫 You can reach me through:-
-  LinkedIn 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Namangthub/Namangthub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  LinkedIn:- https://www.linkedin.com/in/naman-pal-1a4623241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 😄 Pronouns: he/him
